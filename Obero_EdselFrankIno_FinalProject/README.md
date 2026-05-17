@@ -23,9 +23,3 @@ https://youtube.com/@edselobero?si=ZyeeaY8q2youzX6J
 ```bash
 python src/main.py
 ```
-
-For Windows, you can also launch the app from the project root with:
-
-```powershell
-.\OBERO_EDSELFRANKINO_FINALPROJECT.bat
-```
