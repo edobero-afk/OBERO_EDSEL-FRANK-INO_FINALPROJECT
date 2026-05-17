@@ -18,6 +18,8 @@ This project was developed as an individual Python final project to demonstrate 
 2. Open terminal inside project folder
 3. Run the program:
 
+https://youtube.com/@edselobero?si=ZyeeaY8q2youzX6J
+
 ```bash
 python src/main.py
 ```
